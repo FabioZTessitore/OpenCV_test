@@ -7,7 +7,7 @@ import cv2
 drawing = False
 fill = False
 
-img = np.zeros((512, 512, 3), np.int8)
+img = np.zeros((512, 512, 3), np.uint8)
 
 def draw_circle(event, x, y, flags, params):
     global drawing, fill
