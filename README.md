@@ -1,3 +1,3 @@
-# OpenCV Test
+# learning_OpenCV
 
-My Experiments with OpenCV (Python)
+My Experiments with OpenCV
